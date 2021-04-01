@@ -1,0 +1,9 @@
+{
+    "prefix": "fcb.",
+    "isInDevelopment": true,
+    "author": {
+        "name": "Author's name",
+        "pfpUrl": "An avatar URL",
+        "website": "The website url"
+    }
+}

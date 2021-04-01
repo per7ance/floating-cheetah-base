@@ -1,0 +1,22 @@
+{
+  "name": "floating-cheetah-base",
+  "version": "1.0.0",
+  "description": "A simple and easy to use Discord bot base.",
+  "main": "esm.js",
+  "scripts": {
+    "dev": "nodemon esm.js",
+    "start": "node esm.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "esm": "^3.2.25",
+    "glob": "^7.1.6",
+    "ora": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
